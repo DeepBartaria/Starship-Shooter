@@ -1,5 +1,4 @@
 # Space Shooter
-
 A 2D/3D space shooter game developed in Unity as part of a group project.
 
 ## Description
