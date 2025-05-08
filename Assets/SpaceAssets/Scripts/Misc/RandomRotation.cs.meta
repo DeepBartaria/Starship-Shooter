@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 49ca0141b1528514d959fefae666fca5
+timeCreated: 1523403029
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116509
+  packageName: Glowy Space + Scripts!
+  packageVersion: 1.0
+  assetPath: Assets/SpaceAssets/Scripts/Misc/RandomRotation.cs
+  uploadId: 240654

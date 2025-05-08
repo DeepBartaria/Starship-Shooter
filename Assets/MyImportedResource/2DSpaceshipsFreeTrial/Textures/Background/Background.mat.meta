@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0ebc1f6e4be0df546b40a8f972d8eb02
+timeCreated: 1503674155
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 146307
+  packageName: 2D Spaceships Free Trial
+  packageVersion: 1.0
+  assetPath: Assets/2DSpaceshipsFreeTrial/Textures/Background/Background.mat
+  uploadId: 310928

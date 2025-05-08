@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 381f8d2fd7542bf438d1ac786ee21fb2
+timeCreated: 1523496917
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116509
+  packageName: Glowy Space + Scripts!
+  packageVersion: 1.0
+  assetPath: Assets/SpaceAssets/Prefabs/SpaceManager.prefab
+  uploadId: 240654

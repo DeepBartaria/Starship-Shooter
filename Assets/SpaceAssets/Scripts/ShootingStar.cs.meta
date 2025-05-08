@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a71599b5d0ae56344b5e6436519a4823
+timeCreated: 1523467102
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116509
+  packageName: Glowy Space + Scripts!
+  packageVersion: 1.0
+  assetPath: Assets/SpaceAssets/Scripts/ShootingStar.cs
+  uploadId: 240654
